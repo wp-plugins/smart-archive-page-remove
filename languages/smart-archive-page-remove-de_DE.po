@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smart Archive Page Remove\n"
+"POT-Creation-Date: 2015-01-19 20:19:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-01-19 20:34+0100\n"
+"Last-Translator: smartware.cc <sw@smartware.cc>\n"
+"Language-Team: smartware.cc <sw@smartware.cc>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#. Menu Item Title
+msgid "Archive Pages"
+msgstr "Archiv Seiten"
+
+#. Caption
+msgid "Remove the following Archive Pages"
+msgstr "Die folgenden Archiv Seiten entfernen"
+
+#. Option Title
+msgid "Author Archive Page"
+msgstr "Autor Archiv Seite"
+
+#. Option Title
+msgid "Category Archive Page"
+msgstr "Kategorie Archiv Seite"
+
+#. Option Title
+msgid "Tag Archive Page"
+msgstr "Schlagwort Archiv Seite"
+
+#. Option Title
+msgid "Daily Archive Page"
+msgstr "Tägliche Archiv Seite"
+
+#. Option Title
+msgid "Monthly Archive Page"
+msgstr "Monatliche Archiv Seite"
+
+#. Option Title
+msgid "Yearly Archive Page"
+msgstr "Jährliche Archiv Seite"

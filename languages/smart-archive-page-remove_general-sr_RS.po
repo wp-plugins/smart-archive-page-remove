@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smart Archive Page Remove\n"
+"POT-Creation-Date: 2014-05-02 14:12+0100\n"
+"PO-Revision-Date: 2015-01-20 18:20+0100\n"
+"Last-Translator: smartware.cc <sw@smartware.cc>\n"
+"Language-Team: smartware.cc <sw@smartware.cc>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+msgid "Like this Plugin?"
+msgstr "Da li vam se dopada ovaj plugin?"
+
+msgid "Please rate the plugin"
+msgstr "Molimo vas da ocenite ovaj plugin"
+
+msgid "Plugin homepage"
+msgstr "Početna stranica plugin-a"
+
+msgid "Author homepage"
+msgstr "Početna stranica autora"
+
+msgid "Authors Google+ Page"
+msgstr "Google+ stranica autora"
+
+msgid "Authors facebook Page"
+msgstr "Facebook stranica autora "
+
+msgid "Need help?"
+msgstr "Treba vam pomoć?"
+
+msgid "Take a look at the FAQ section"
+msgstr "Pogledajte odeljak za često postavljana pitanja"
+
+msgid "Take a look at the Support section"
+msgstr "Pogledajte odeljak za podršku"
+
+msgid "Feel free to contact the Author"
+msgstr "Pišite autoru"
